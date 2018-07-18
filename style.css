@@ -1,0 +1,165 @@
+*{
+	padding: 0em;
+	margin: 0em;
+}
+
+body {
+	/*border: 2px solid red;*/
+	width: 84em;
+	height: auto;
+}
+
+#container {
+	/*border: 2px solid gold;*/
+    width: 81em;
+    height: 64em;
+    margin: 0 auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+#header, #footer {
+	/*border: 2px solid lawngreen;*/
+    width: 80em;
+    height: 3em;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+#row1, #row2 {
+	/*border: 2px solid turquoise;*/
+    width: 80em;
+    height: 27em;
+    margin: 0 auto;
+	margin-top: 10px;
+}
+
+#block1, #block2 {
+	/*border: 2px solid blue;*/
+	width: 79em;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#block1 {
+	height: 3.5em;
+}
+
+#block2 {
+	height: 21em;
+}
+
+#b2col1 {
+	width: 16em;
+	height: 18.5em;
+	display: inline-block;
+	vertical-align: top;
+
+	margin: 10px 5px;
+    padding: 10px;
+    /*border: 2px solid orangered;*/
+}
+
+#b2col2 {
+	width: 28em;
+	height: 18.5em;
+	display: inline-block;
+	vertical-align: top;
+
+	margin: 10px 5px;
+    padding: 10px;
+    /*border: 2px solid orangered;*/
+}
+
+#b2col3 {
+	width: 28em;
+	height: 18.5em;
+	display: inline-block;
+	vertical-align: top;
+
+	margin: 10px 5px;
+    padding: 10px;
+    /*border: 2px solid orangered;*/
+}
+
+#r2col1{
+	width: 46em;
+	height: 23em;
+	display: inline-block;
+	vertical-align: top;
+
+	margin: 10px 8px;
+    padding: 10px;
+    /*border: 2px solid blue;*/
+}
+
+#r2col2{
+	width: 28em;
+	height: 23em;
+	display: inline-block;
+	vertical-align: top;
+
+	margin: 10px 8px;
+    padding: 10px;
+    /*border: 2px solid blue;*/
+}
+
+#r2c1row1, #r2c1row2 {
+	/*border: 2px solid orangered;*/
+	width: 44em;
+	height: 10.5em;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#r2c2row1, #r2c2row2 {
+	/*border: 2px solid orangered;*/
+	width: 26em;
+	height: 10.5em;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+
+#photo, #resumeEmail {
+	/*border: 2px solid gray;*/
+	width: 12em;
+	
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#block1 h1{
+	margin: 10px;
+}
+
+#profilepic {
+	width:12em;
+
+}
+
+.icon {
+	width: 1em;
+	height: 1em;
+}
+
+#r2col2 h1{
+	text-align: center;
+}
+
+#demopic{
+	/*border: 2px solid gray;*/
+	width: 13.4em;
+	height: 9em;
+	margin: 10px 0px 0px 10px;
+}
+
+#demopic1{
+	/*border: 2px solid gray;*/
+	width: 24.4em;
+	height: 9em;
+	margin: 10px 0px 0px 10px;
+}
+
+
+
